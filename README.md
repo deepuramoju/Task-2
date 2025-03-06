@@ -72,6 +72,9 @@ This project aims to implement a Convolutional Neural Network (CNN) for classify
 
 ## Possible Improvements:
 -Add data augmentation to improve generalization.
+
 -Use more convolutional layers to increase accuracy.
+
 -Fine-tune learning rate and hyperparameters.
+
 -Experiment with pre-trained models (ResNet, VGG) for better results.
